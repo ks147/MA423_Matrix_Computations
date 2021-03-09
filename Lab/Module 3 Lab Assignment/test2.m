@@ -1,0 +1,10 @@
+A=hess(randn(4));
+[q,r]=reflectqr_hessenberg(A);
+A
+q*r
+q
+A=randn(6);
+[q,r]=reflectqr(A);
+A
+q*r
+q

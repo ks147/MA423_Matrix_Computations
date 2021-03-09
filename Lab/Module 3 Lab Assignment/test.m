@@ -1,0 +1,10 @@
+A=randn(6,3);
+[q,r]=reflectqr(A);
+A
+q*r
+q*q'
+A=randn(4);
+[q,r]=reflectqr(A);
+A
+q*r
+q*q'
