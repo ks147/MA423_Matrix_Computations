@@ -12,6 +12,7 @@
     - [Lab 8](https://github.com/ks147/MA423_Matrix_Computations/tree/master/Lab/Assignment8)
 
 - Assignments
-    - [Module 1](https://github.com/ks147/MA423_Matrix_Computations/tree/master/Lab/Module%201%20Lab%20Assessment)
-    - [Module 2]()
-    - [Module 3](https://github.com/ks147/MA423_Matrix_Computations/tree/master/Lab/Module%203%20Lab%20Assignment)
+    - [Module 1](https://github.com/ks147/MA423_Matrix_Computations/tree/master/Lab/Module%201%20Lab)
+    - [Module 2](https://github.com/ks147/MA423_Matrix_Computations/tree/master/Lab/Module%202%20Lab)
+    - [Module 3](https://github.com/ks147/MA423_Matrix_Computations/tree/master/Lab/Module%203%20Lab)
+    - [Module 4](https://github.com/ks147/MA423_Matrix_Computations/tree/master/Lab/Module%204%20Lab)
